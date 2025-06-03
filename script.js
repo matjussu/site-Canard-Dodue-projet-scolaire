@@ -472,3 +472,6 @@ function resetForNewOrder() {
     orderNumber = null;
     document.getElementById('checkout-form').reset();
 }
+
+
+
